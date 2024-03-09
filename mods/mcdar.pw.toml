@@ -1,0 +1,13 @@
+name = "MC Dungeons Artifacts"
+filename = "mcdar-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xweQBqAC/versions/b3bs2cgJ/mcdar-4.0.1.jar"
+hash-format = "sha1"
+hash = "28ab2608ea58e15898e2a17969d022ab4bb32ad1"
+
+[update]
+[update.modrinth]
+mod-id = "xweQBqAC"
+version = "b3bs2cgJ"

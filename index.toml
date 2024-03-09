@@ -186,6 +186,21 @@ hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
 
 [[files]]
+file = "mods/mcda.pw.toml"
+hash = "3974632058dfc8d7b3db434ace187c87a553c9d2b7d13e1553421ea3157800d6"
+metafile = true
+
+[[files]]
+file = "mods/mcdar.pw.toml"
+hash = "860bc2162fa85b58cd7e203f689335aba09399494ddfa10c310f7b418300053e"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "d80aefd4d96bd8dea5ac21ebc3e359733f5331cfe3a6394752be6119f8ea9b0a"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
