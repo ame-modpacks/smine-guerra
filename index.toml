@@ -107,10 +107,6 @@ file = "config/openloader/data/track statistics v1.1.7 (MC 1.20-1.20.4).zip"
 hash = "16c99031e19aadcc34abf121ada9f0d4e8477b449ed325d52902faa7dd11438a"
 
 [[files]]
-file = "config/openloader/data/v1ultrakill.zip"
-hash = "2429803b17cff3203839e90c1c519a11547fa90f1b75dca36bc7434702a7de9b"
-
-[[files]]
 file = "config/openloader/data/villager workstation highlights v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "765112fd19412bd71f0a48f887a5a99c750efbb4a4f247091166ed55ea69b28e"
 
@@ -527,3 +523,48 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "ff35ab98b7a15330d11e7c369c552ba97dccc60aefa5e2504471d105bb2345dd"
+
+[[files]]
+file = "resourcepacks/amethyst_marker.zip"
+hash = "bd9e9346e58dc5389ec0787b791d7ddb403528ee7b5899f23a106f9e07a862e3"
+
+[[files]]
+file = "resourcepacks/clearer_water.zip"
+hash = "9302442869e4de9a4ba7cc7d3f042c03705586e48fb8942e8bd6a43156ccd94d"
+
+[[files]]
+file = "resourcepacks/crop_marker.zip"
+hash = "1dea0c5f302aa5a2eb090cde3ebbf6213ac6206037bc51bcb47662eebb2be7b8"
+
+[[files]]
+file = "resourcepacks/no_cave_sound.zip"
+hash = "1518dcecd2774b0defdf383c3300ba24834917b1834169579b52be799bed1973"
+
+[[files]]
+file = "resourcepacks/old_enchantment_glint.zip"
+hash = "bc6199b85464b4f867a40fb64bfc5334063c1ba16fc45f7bd04870ccd09c213e"
+
+[[files]]
+file = "resourcepacks/ore_borders.zip"
+hash = "502d89a3d473c5edee269e119f1c1e1c909a24f7e1c6dde6d908e70f19518e28"
+
+[[files]]
+file = "resourcepacks/quieter_sculk.zip"
+hash = "b0d40b15b8b8f6e115fb0472da6f4fc719c9d1f9ac271103db8ddbec50903290"
+
+[[files]]
+file = "resourcepacks/spawn_indicator.zip"
+hash = "c7ad6de05f7d3ae4ee08a33cbb3c6d5de4feeea853b48f9427b9f4789db1a7c1"
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "a3a62ad561358f43670434ced35740bc901e0eac9502815d4253041cfbfba113"
+metafile = true
+
+[[files]]
+file = "resourcepacks/warped_plank_background.zip"
+hash = "1a14a134a25fb94d7e0f3018b4e81c90f5721de52c7391c9bf22aee48e42ac26"
