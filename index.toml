@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "cb0623f7f10887d9eb69f8ddab8ea0743f982bd87c8f2928068fed1b411fcc02"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
